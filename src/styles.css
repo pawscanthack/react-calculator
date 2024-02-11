@@ -59,7 +59,6 @@ body {
 @keyframes rick-and-morty{
     50%{
         background-image: url("./images/peaceful_rick.jpg");
-        transition: cubic-bezier(1, 0, 0, 1);
     }
     100%{
         background-image: url("./images/breaking_morty.jpg");
