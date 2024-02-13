@@ -1,5 +1,5 @@
 import backgroundVideo from "./videos/beach_waves.mp4";
-
+import "./video.css";
 export default function Video() {
   return (
     <>
