@@ -6,7 +6,6 @@ export default function Video() {
       <video autoPlay loop muted id="video">
         <source src={backgroundVideo}></source>
       </video>
-      B-Roll provided by <a href="http://www.videezy.com">Videezy!</a>
     </>
   );
 }
